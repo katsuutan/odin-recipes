@@ -1,0 +1,34 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    font-family: 'Helvetica', 'Verdana', sans-serif;
+}
+
+.recipe {
+    font-size: 30px;
+    font-family: 'Helvetica', 'Verdana', sans-serif;
+}
+
+#beef-stew {
+    text-align: left;
+}
+
+#oyakodon {
+    text-align: center;
+}
+
+#potato-salad {
+    text-align: right;
+}
+
+/* Above is index.html mainly, Below is for individual recipes mainly" */
+
+.picture {
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
